@@ -1,0 +1,14 @@
+jupyter==1.0.0
+ipython==7.5.0
+sympy==1.4
+notebook==5.7.8
+jupyterlab==0.35.6
+jupyter-contrib-nbextensions==0.5.1
+jupytext==1.1.3
+nbdiff==1.0.3
+nbdime==1.0.6
+nbformat==4.4.0
+notedown==1.5.1
+matplotlib==3.1.0
+symbolic-equation==0.1.0.dev0
+numpy==1.16.4

@@ -1,7 +1,7 @@
 jupyter==1.0.0
 ipython==7.5.0
 sympy==1.4
-notebook==5.7.8
+notebook==6.1.5
 jupyterlab==0.35.6
 jupyter-contrib-nbextensions==0.5.1
 jupytext==1.1.3
